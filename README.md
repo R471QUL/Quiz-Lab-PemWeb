@@ -3,7 +3,7 @@
 ### 1. Halaman Daftar Tugas
 Menampilkan seluruh tugas dalam bentuk tabel (Judul, Status, Prioritas, Deadline, Aksi).
 
-![Halaman daftar](screenshots/01-daftar.png)
+![Halaman daftar](https://github.com/R471QUL/Quiz-Lab-PemWeb/blob/0e7e6bf9093867f6944ef8ab333c84f9aed1132e/SS/Screenshot%202026-11-17%20122200.png)
 
 ### 2. Menambah Tugas
 Klik tombol **Tambah Todo**, lalu isi formulir.
