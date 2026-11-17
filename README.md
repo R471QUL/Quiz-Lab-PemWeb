@@ -8,7 +8,7 @@ Menampilkan seluruh tugas dalam bentuk tabel (Judul, Status, Prioritas, Deadline
 ### 2. Menambah Tugas
 Klik tombol **Tambah Todo**, lalu isi formulir.
 
-![Modal tambah todo](screenshots/02-tambah-modal.png)
+![Modal tambah todo](https://github.com/R471QUL/Quiz-Lab-PemWeb/blob/bb4e5ad024f07354a5090c2412380d1b3106afac/SS/Screenshot%202026-11-17%20122317.png)
 
 Setelah disimpan, tugas baru langsung muncul di tabel disertai notifikasi.
 
