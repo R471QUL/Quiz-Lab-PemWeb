@@ -31,19 +31,7 @@ Setelah disimpan, data pada halaman detail langsung berubah.
 ### 5. Menghapus Tugas
 Klik tombol merah (ikon tempat sampah), akan muncul dialog konfirmasi sebelum tugas dihapus.
 
-![Konfirmasi hapus](screenshots/07-hapus-konfirmasi.png)
-
-Setelah dikonfirmasi, tugas hilang dari tabel disertai notifikasi.
-
-![Hapus berhasil](screenshots/08-hapus-berhasil.png)
-
-### 6. Validasi Formulir
-Judul dan Deadline wajib diisi, jika kosong akan muncul pesan kesalahan.
-
-![Validasi form](screenshots/09-validasi.png)
-
-### 7. Tampilan Responsif (Ponsel)
-Pada layar kecil, tabel berubah menjadi kartu per tugas.
+![Konfirmasi hapus](https://github.com/R471QUL/Quiz-Lab-PemWeb/blob/89048da502819f7e1c18c862c9e2b371d5bd110c/SS/Screenshot%202026-11-17%20122614.png)
 
 ![Tampilan ponsel](screenshots/10-mobile.png)
 
