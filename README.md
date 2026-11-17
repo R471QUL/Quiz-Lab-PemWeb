@@ -12,7 +12,7 @@ Klik tombol **Tambah Todo**, lalu isi formulir.
 
 Setelah disimpan, tugas baru langsung muncul di tabel disertai notifikasi.
 
-![Tambah berhasil](screenshots/03-tambah-berhasil.png)
+![Tambah berhasil](https://github.com/R471QUL/Quiz-Lab-PemWeb/blob/ec4f20214fff3a5bb876463dfa55a7a1ef3d57f4/SS/Screenshot%202026-11-17%20122328.png)
 
 ### 3. Melihat Detail Tugas
 Klik tombol biru (ikon mata) untuk membuka halaman detail (`/todo/:id`).
