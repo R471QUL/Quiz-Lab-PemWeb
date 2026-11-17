@@ -26,7 +26,7 @@ Klik tombol **Update**, formulir sudah terisi data tugas yang dipilih.
 
 Setelah disimpan, data pada halaman detail langsung berubah.
 
-![Update berhasil](screenshots/06-update-berhasil.png)
+![Update berhasil](https://github.com/R471QUL/Quiz-Lab-PemWeb/blob/2c39a55b14c37ad6a6c1f73ead0be486581ab3d8/SS/Screenshot%202026-11-17%20122510.png)
 
 ### 5. Menghapus Tugas
 Klik tombol merah (ikon tempat sampah), akan muncul dialog konfirmasi sebelum tugas dihapus.
