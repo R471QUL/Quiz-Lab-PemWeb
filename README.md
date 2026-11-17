@@ -32,7 +32,3 @@ Setelah disimpan, data pada halaman detail langsung berubah.
 Klik tombol merah (ikon tempat sampah), akan muncul dialog konfirmasi sebelum tugas dihapus.
 
 ![Konfirmasi hapus](https://github.com/R471QUL/Quiz-Lab-PemWeb/blob/89048da502819f7e1c18c862c9e2b371d5bd110c/SS/Screenshot%202026-11-17%20122614.png)
-
-![Tampilan ponsel](screenshots/10-mobile.png)
-
-
