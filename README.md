@@ -22,7 +22,7 @@ Klik tombol biru (ikon mata) untuk membuka halaman detail (`/todo/:id`).
 ### 4. Memperbarui Tugas
 Klik tombol **Update**, formulir sudah terisi data tugas yang dipilih.
 
-![Modal update todo](screenshots/05-update-modal.png)
+![Modal update todo](https://github.com/R471QUL/Quiz-Lab-PemWeb/blob/fd725a19b67e029da5a109ba80a329945c16687e/SS/Screenshot%202026-11-17%20122459.png)
 
 Setelah disimpan, data pada halaman detail langsung berubah.
 
