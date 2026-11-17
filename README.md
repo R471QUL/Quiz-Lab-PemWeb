@@ -17,7 +17,7 @@ Setelah disimpan, tugas baru langsung muncul di tabel disertai notifikasi.
 ### 3. Melihat Detail Tugas
 Klik tombol biru (ikon mata) untuk membuka halaman detail (`/todo/:id`).
 
-![Halaman detail](screenshots/04-detail.png)
+![Halaman detail](https://github.com/R471QUL/Quiz-Lab-PemWeb/blob/95fe578e7a5151410610148f19411f7bfac011a7/SS/Screenshot%202026-11-17%20122435.png)
 
 ### 4. Memperbarui Tugas
 Klik tombol **Update**, formulir sudah terisi data tugas yang dipilih.
